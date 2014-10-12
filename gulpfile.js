@@ -1,6 +1,7 @@
-// gulp required plugins import
-var gulp    = require( 'gulp' ),
-    sass    = require( 'gulp-ruby-sass' );
+var gulp            = require( 'gulp' ),
+    sass            = require( 'gulp-ruby-sass' ),
+    autoprefixer    = require( 'gulp-autoprefixer' );
+
 
 gulp.task( 'styles', function () {
     return gulp
@@ -18,4 +19,9 @@ gulp.task( 'styles', function () {
             'android 4',
             'Firefox > 20' ) )
         .pipe( gulp.dest( 'css' ) );
+} );
+
+
+gulp.task( 'default', function () {
+    gulp.start( 'styles' );
 } );
