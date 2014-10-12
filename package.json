@@ -1,0 +1,17 @@
+{
+  "name": "MagicBucket",
+  "description": "",
+  "keywords": [],
+  "homepage": "",
+  "author": "",
+  "version": "3.0.0",
+  "devDependencies": {
+    "gulp": "~3.8.7",
+    "gulp-autoprefixer": "~0.0.8",
+    "gulp-ruby-sass": "~0.7.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  }
+}

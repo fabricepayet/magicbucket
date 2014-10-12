@@ -1,0 +1,14 @@
+# Site settings
+title: Magic Bucket
+email: team@magicbucket.fr
+description: > # this means to ignore newlines until "baseurl:"
+  Magic Bucket est un collectif réunissant 4 passionés du web:
+  Thomas Blondel et Donovan Levain, Designers Web ainsi que
+  Fabrice Payet - développeur Back-End et Gabin Aureche - Développeur Front-End.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://magicbucket.fr" # the base hostname & protocol for your site
+twitter_username: MagicBucketTeam
+github_username:  zhouzi
+
+# Build settings
+markdown: kramdown
