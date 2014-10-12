@@ -22,6 +22,11 @@ gulp.task( 'styles', function () {
 } );
 
 
+gulp.task( 'watch', function () {
+    gulp.watch( '_sass/**/*.scss', [ 'styles' ] );
+} );
+
+
 gulp.task( 'default', function () {
     gulp.start( 'styles' );
 } );
