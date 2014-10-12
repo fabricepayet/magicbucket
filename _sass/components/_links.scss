@@ -1,0 +1,15 @@
+.link-white,
+.link-white:hover,
+.link-white:focus {
+  color: #fff;
+}
+
+.link-white {
+  opacity: .8;
+
+  &:hover,
+  &:focus {
+    opacity: 1;
+    text-decoration: none;
+  }
+}

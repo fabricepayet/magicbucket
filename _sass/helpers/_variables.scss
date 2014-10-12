@@ -1,0 +1,77 @@
+/*------------------------------------*\
+    #BRANDCOLORS
+\*------------------------------------*/
+
+$brand-primary: #e74c3c;
+$brand-secondary: #34495e;
+$brand-dark: #293540;
+$brand-darker: #1e2830;
+$gray-light: #e2e2e2;
+$gray: darken( $gray-light, 30% );
+
+
+
+
+
+/*------------------------------------*\
+    #TYPOGRAPHY
+\*------------------------------------*/
+
+$font-size-small: 12px;
+$font-size-base: 16px;
+$font-size-medium: 20px;
+$font-size-large: 24px;
+$font-size-icon: 28px;
+
+$line-height-base: 1.6;
+
+$font-family-sans-serif: 'Open Sans', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+$font-family-base: $font-family-sans-serif;
+$base-font-weight: 400;
+$base-font-weight-light: 300;
+
+$headings-font-family: 'Quicksand', 'Open Sans', 'Helvetica Neue', 'Helvetica', Arial, sans-serif;
+$headings-font-weight: 700;
+$headings-font-weight-light: 300;
+
+$font-size-h1: 40px;
+$font-size-h2: 30px;
+$font-size-h3: 22px;
+$font-size-h4: 26px;
+$font-size-h5: 20px;
+$font-size-h6: 20px;
+
+
+
+
+
+/*------------------------------------*\
+    #SPACING
+\*------------------------------------*/
+
+$spacing-section: 130px;
+$spacing-inner: 60px;
+$spacing-close: 20px;
+
+
+
+
+
+/*------------------------------------*\
+    #FORM
+\*------------------------------------*/
+
+$input-bg: $gray-light;
+$input-bg-hover: #fff;
+$input-border-radius: 0;
+$input-border: $input-bg;
+$input-border-focus: $brand-secondary;
+
+
+
+
+/*------------------------------------*\
+    #BTNS
+\*------------------------------------*/
+
+$btn-primary-border: transparent;

@@ -1,0 +1,19 @@
+.form-group {
+  margin-bottom: 30px;
+}
+
+.control-label {
+  font-weight: $base-font-weight;
+  margin-bottom: 12px;
+}
+
+
+
+.form-control,
+.form-control:focus {
+  box-shadow: none;
+}
+
+.form-control:focus {
+  background-color: $input-bg-hover;
+}

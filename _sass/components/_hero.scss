@@ -1,0 +1,38 @@
+.hero {
+  color: #fff;
+  padding-top: 80px;
+
+  background-image: url('../images/hero-bg.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+
+
+  a {
+    @extend .link-white;
+    font-size: $font-size-medium;
+  }
+
+
+  h1 {
+    opacity: .8;
+  }
+
+
+  .socials {
+    margin: 40px 0 60px 0;
+
+    a {
+      @extend .link-white;
+    }
+  }
+
+
+  nav {
+    font-weight: $base-font-weight-light;
+
+    li {
+      padding: 0 25px;
+    }
+  }
+}

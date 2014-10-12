@@ -1,0 +1,38 @@
+h1, .h1,
+h2, .h2,
+h3, .h3 {
+  text-transform: uppercase;
+}
+
+h2, .h2 {
+  margin: 0 0 40px 0;
+  display: inline-block;
+  padding: 0 0 6px 0;
+  color: $brand-secondary;
+  border-bottom: 3px solid $gray-lighter;
+}
+
+h3, .h3 {
+  margin: 0 0 20px 0;
+  color: $brand-primary;
+}
+
+h4, .h4 {
+  font-weight: $headings-font-weight-light;
+}
+
+p {
+  margin-bottom: $spacing-inner;
+}
+
+.p-close {
+  margin-bottom: $spacing-close;
+}
+
+.p-center {
+  @extend .text-center;
+
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
