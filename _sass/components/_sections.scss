@@ -3,12 +3,21 @@
 }
 
 
-.slogan {
+.quote {
+  @extend .bg-cover;
   background-color: #333;
 
   h4, .h4 {
     color: #fff;
     opacity: .8;
+  }
+
+  &.quote__1 {
+    background-image: url('../images/quote-1.png');
+  }
+
+  &.quote__2 {
+    background-image: url('../images/quote-2.png');
   }
 }
 
@@ -33,6 +42,7 @@
   }
 
   a {
+    &.active,
     &:hover,
     &:focus {
       img {
@@ -40,6 +50,30 @@
         opacity: 1;
       }
     }
+  }
+}
+
+
+
+.mates {
+  position: relative;
+}
+
+.mate {
+  position: absolute;
+  top: -10px;
+  opacity: 0;
+
+
+  &.active {
+    position: relative;
+    top: 0;
+    opacity: 1;
+    transition: all 300ms;
+  }
+
+  h3, .h3, p {
+    margin-bottom: .4em;
   }
 }
 

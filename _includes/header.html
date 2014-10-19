@@ -5,16 +5,21 @@
             <h1>Magic Bucket</h1>
 
             <ul class="socials list-unstyled list-inline">
-                <li><a class="link-icon" href="http://facebook.com/magicbucketteam"><span class="icon-facebook"></span></a></li>
-                <li><a class="link-icon" href="http://twitter.com/magicbucketteam"><span class="icon-twitter"></span></a></li>
+                {% for social in site.data.collective.socials %}
+                    <li>
+                        <a class="link-icon" href="{{ social.link }}">
+                            <span class="icon-{{ social.name|downcase }}"></span>
+                        </a>
+                    </li>
+                {% endfor %}
             </ul>
         </header>
 
         <nav>
             <ul class="list-unstyled list-inline">
-                <li><a href="#">Nos Projets</a></li>
-                <li><a href="#">L'équipe</a></li>
-                <li><a href="#">Nous Contacter</a></li>
+                <!--<li><a href="#">Nos Projets</a></li>-->
+                <li><a href="#team">L'équipe</a></li>
+                <li><a href="#contact">Nous Contacter</a></li>
             </ul>
         </nav>
     </div>

@@ -1,11 +1,9 @@
 .hero {
+  @extend .bg-cover;
   color: #fff;
+  background-image: url('../images/hero-bg.jpg');
   padding-top: 80px;
 
-  background-image: url('../images/hero-bg.jpg');
-  background-size: cover;
-  background-position: center;
-  background-attachment: fixed;
 
 
   a {

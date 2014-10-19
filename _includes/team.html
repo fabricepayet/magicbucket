@@ -1,26 +1,31 @@
-<section class="team section">
+<section id="team" class="team section">
     <div class="container text-center">
         <h2>L'équipe</h2>
 
         <p>Lorem ipsum dolor sit amet.</p>
 
         <ul class="members list-unstyled list-inline">
-            <li><a href="#"><img src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="Gabin Aureche"/></a></li>
-            <li><a href="#"><img src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="Fabrice Payet"/></a></li>
-            <li><a href="#"><img src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="Donovan Levain"/></a></li>
-            <li><a href="#"><img src="https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg" alt="Thomas Blondel"/></a></li>
+            {% for mate in site.data.team %}
+                <li>
+                    <a href="#" data-mate="{{ mate.firstname|downcase }}"><img src="{{ mate.img }}" alt="{{ mate.firstname }} {{ mate.lastname }}"/></a>
+                </li>
+            {% endfor %}
         </ul>
 
-        <article>
-            <h3>John Doe</h3>
+        <div class="mates">
+            {% for mate in site.data.team %}
+                <article class="mate" data-mate="{{ mate.firstname|downcase }}">
+                    <h3>{{ mate.firstname }} {{ mate.lastname }}</h3>
 
-            <p class="p-center">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid asperiores assumenda est eveniet ex.</p>
+                    <p class="p-center">{{ mate.introduction }}</p>
 
-            <ul class="socials list-unstyled list-inline">
-                <li><a href="#"><span class="icon-facebook"></span></a></li>
-                <li><a href="#"><span class="icon-twitter"></span></a></li>
-                <li><a href="#"><span class="icon-github"></span></a></li>
-            </ul>
-        </article>
+                    <ul class="socials list-unstyled list-inline">
+                        {% for social in mate.socials %}
+                            <li><a href="{{ social.link }}"><span class="icon-{{ social.name|downcase }}"></span></a></li>
+                        {% endfor %}
+                    </ul>
+                </article>
+            {% endfor %}
+        </div>
     </div>
 </section>

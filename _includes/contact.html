@@ -1,4 +1,4 @@
-<section class="contact section text-center">
+<section id="contact" class="contact section text-center">
     <div class="container">
         <h2>Nous Contacter</h2>
 
@@ -40,8 +40,9 @@
         <p class="p-close text-center">Retrouvez notre actualité ici et là.</p>
 
         <ul class="socials list-unstyled list-inline text-center">
-            <li><a href="#"><span class="icon-facebook"></span></a></li>
-            <li><a href="#"><span class="icon-twitter"></span></a></li>
+            {% for social in site.data.collective.socials %}
+                <li><a href="{{ social.link }}"><span class="icon-{{ social.name|downcase }}"></span></a></li>
+            {% endfor %}
         </ul>
     </div>
 </section>
