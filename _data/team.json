@@ -7,17 +7,17 @@
         "socials": [
             {
                 "name": "Twitter",
-                "link": "http://twitter.com/magicbucketteam"
+                "link": "http://twitter.com/thomblondel"
             },
 
             {
                 "name": "Facebook",
-                "link": "http://twitter.com/magicbucketteam"
+                "link": "http://facebook.com/thomblondel"
             },
 
             {
-                "name": "Github",
-                "link": "http://twitter.com/magicbucketteam"
+                "name": "Website",
+                "link": "http://thomasblondel.fr"
             }
         ]
     },
@@ -53,17 +53,17 @@
         "socials": [
             {
                 "name": "Twitter",
-                "link": "http://twitter.com/magicbucketteam"
+                "link": "http://twitter.com/payetfabrice"
             },
 
             {
-                "name": "Facebook",
-                "link": "http://twitter.com/magicbucketteam"
+                "name": "Website",
+                "link": "http://payet-fabrice.fr"
             },
 
             {
-                "name": "Github",
-                "link": "http://twitter.com/magicbucketteam"
+                "name": "Linkedin",
+                "link": "http://www.linkedin.com/pub/fabrice-payet/27/553/560/"
             }
         ]
     },
@@ -75,18 +75,18 @@
         "img": "https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg",
         "socials": [
             {
-                "name": "Twitter",
-                "link": "http://twitter.com/magicbucketteam"
+                "name": "GitHub",
+                "link": "http://github.com/zhouzi"
             },
 
             {
                 "name": "Facebook",
-                "link": "http://twitter.com/magicbucketteam"
+                "link": "http://facebook.com/gabinaureche"
             },
 
             {
-                "name": "Github",
-                "link": "http://twitter.com/magicbucketteam"
+                "name": "Website",
+                "link": "http://gabinaureche.com"
             }
         ]
     }

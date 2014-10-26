@@ -2,40 +2,42 @@
     <div class="container">
         <h2>Nous Contacter</h2>
 
-        <div class="row form text-left">
-            <div class="col-xs-12 col-sm-6">
-                <div class="form-group">
-                    <label class="control-label" for="firstname">Votre prénom</label>
-                    <input type="text" class="form-control" id="firstname" name="firstname" />
+        <form action="https://formkeep.com/f/14558b5cb99c" method="POST">
+            <div class="row form text-left">
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group">
+                        <label class="control-label" for="firstname">Votre prénom</label>
+                        <input type="text" class="form-control" id="firstname" name="firstname" placeholder="prénom" required />
+                    </div>
+
+
+                    <div class="form-group">
+                        <label class="control-label" for="lastname">Votre nom</label>
+                        <input type="text" class="form-control" id="lastname" name="lastname" placeholder="nom" required />
+                    </div>
+
+
+                    <div class="form-group">
+                        <label class="control-label" for="email">Votre email</label>
+                        <input type="email" class="form-control" id="email" name="email" placeholder="email" required />
+                    </div>
                 </div>
 
 
-                <div class="form-group">
-                    <label class="control-label" for="lastname">Votre nom</label>
-                    <input type="text" class="form-control" id="lastname" name="lastname" />
-                </div>
+
+                <div class="col-xs-12 col-sm-6">
+                    <div class="form-group">
+                        <label class="control-label" for="message">Votre message</label>
+                        <textarea id="message" name="message" class="form-control" cols="30" rows="10" required></textarea>
+                    </div>
 
 
-                <div class="form-group">
-                    <label class="control-label" for="email">Votre email</label>
-                    <input type="email" class="form-control" id="email" name="email" />
+                    <div class="form-group">
+                        <input type="submit" class="btn btn-lg btn-primary" value="envoyer" />
+                    </div>
                 </div>
             </div>
-
-
-
-            <div class="col-xs-12 col-sm-6">
-                <div class="form-group">
-                    <label class="control-label" for="message">Votre message</label>
-                    <textarea id="message" name="message" class="form-control" cols="30" rows="10"></textarea>
-                </div>
-
-
-                <div class="form-group">
-                    <input type="submit" class="btn btn-lg btn-primary" value="envoyer" />
-                </div>
-            </div>
-        </div>
+        </form>
 
         <p class="p-close text-center">Retrouvez notre actualité ici et là.</p>
 

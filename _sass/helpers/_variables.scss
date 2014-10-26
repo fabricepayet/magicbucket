@@ -17,6 +17,8 @@ $gray: darken( $gray-light, 30% );
     #TYPOGRAPHY
 \*------------------------------------*/
 
+$text-color: #333;
+
 $font-size-small: 14px;
 $font-size-base: 16px;
 $font-size-medium: 20px;
@@ -67,6 +69,8 @@ $input-bg-hover: #fff;
 $input-border-radius: 0;
 $input-border: $input-bg;
 $input-border-focus: $brand-secondary;
+$input-color-placeholder: $gray;
+$input-color: $text-color;
 
 
 

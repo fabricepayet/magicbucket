@@ -15,5 +15,6 @@
 }
 
 .form-control:focus {
+  color: $text-color;
   background-color: $input-bg-hover;
 }
