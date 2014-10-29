@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878e5a71-b7f7-489e-8378-eed14a080bcf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/images/logo-01.svg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/footer.html" afterPath="$PROJECT_DIR$/_includes/footer.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/head.html" afterPath="$PROJECT_DIR$/_includes/head.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/team.html" afterPath="$PROJECT_DIR$/_includes/team.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/team.json" afterPath="$PROJECT_DIR$/_data/team.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/header.html" afterPath="$PROJECT_DIR$/_includes/header.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magicbucket.iws" />
@@ -29,37 +29,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="_config.yml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
+      <file leaf-file-name="footer.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/footer.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="24" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="team.json" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_data/team.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="66" column="13" selection-start="2573" selection-end="2573" vertical-scroll-proportion="0.6776181" vertical-offset="660" max-vertical-offset="1470">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="team.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/team.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="540">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="51" selection-start="806" selection-end="806" vertical-scroll-proportion="-2.0833333" vertical-offset="160" max-vertical-offset="660">
+            <state line="14" column="9" selection-start="361" selection-end="361" vertical-scroll-proportion="0.42" vertical-offset="0" max-vertical-offset="500">
               <folding />
             </state>
           </provider>
@@ -82,7 +55,6 @@
         <option value="$PROJECT_DIR$/_sass/base/_reset.scss" />
         <option value="$PROJECT_DIR$/_sass/components/_btns.scss" />
         <option value="$PROJECT_DIR$/_sass/components/_links.scss" />
-        <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_sass/components/_typography.scss" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
         <option value="$PROJECT_DIR$/_data/magicbucket.json" />
@@ -94,7 +66,6 @@
         <option value="$PROJECT_DIR$/_sass/components/_sections.scss" />
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/images/logo-01.svg" />
-        <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/introduction.html" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
         <option value="$PROJECT_DIR$/_sass/components/_form.scss" />
@@ -102,8 +73,10 @@
         <option value="$PROJECT_DIR$/_sass/helpers/_variables.scss" />
         <option value="$PROJECT_DIR$/_includes/team.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_data/team.json" />
+        <option value="$PROJECT_DIR$/_includes/head.html" />
+        <option value="$PROJECT_DIR$/_includes/header.html" />
+        <option value="$PROJECT_DIR$/_includes/footer.html" />
       </list>
     </option>
   </component>
@@ -443,21 +416,6 @@
         <state line="20" column="26" selection-start="395" selection-end="395" vertical-scroll-proportion="0.6" vertical-offset="0" max-vertical-offset="500" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/images/logo-01.svg">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="745" selection-end="745" vertical-scroll-proportion="0.26258206" vertical-offset="0" max-vertical-offset="457" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="25" selection-start="529" selection-end="529" vertical-scroll-proportion="0.36" vertical-offset="0" max-vertical-offset="500" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="9" selection-start="334" selection-end="334" vertical-scroll-proportion="0.42" vertical-offset="0" max-vertical-offset="500" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_layouts/default.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="17" column="0" selection-start="511" selection-end="511" vertical-scroll-proportion="0.51" vertical-offset="0" max-vertical-offset="500" />
@@ -497,28 +455,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/team.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="-8.125" vertical-offset="0" max-vertical-offset="540">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="24" selection-start="367" selection-end="367" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="51" selection-start="806" selection-end="806" vertical-scroll-proportion="-2.0833333" vertical-offset="160" max-vertical-offset="660">
+        <state line="13" column="0" selection-start="494" selection-end="494" vertical-scroll-proportion="0.40041068" vertical-offset="0" max-vertical-offset="540">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_data/team.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="66" column="13" selection-start="2573" selection-end="2573" vertical-scroll-proportion="0.6776181" vertical-offset="660" max-vertical-offset="1470">
+        <state line="70" column="5" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.80082136" vertical-offset="660" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="24" selection-start="367" selection-end="367" vertical-scroll-proportion="0.20038168" vertical-offset="0" max-vertical-offset="524">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/head.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="78" selection-start="2822" selection-end="2822" vertical-scroll-proportion="0.748" vertical-offset="376" max-vertical-offset="900">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="12" selection-start="92" selection-end="129" vertical-scroll-proportion="0.09" vertical-offset="0" max-vertical-offset="500">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/footer.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="9" selection-start="361" selection-end="361" vertical-scroll-proportion="0.42" vertical-offset="0" max-vertical-offset="500">
           <folding />
         </state>
       </provider>
