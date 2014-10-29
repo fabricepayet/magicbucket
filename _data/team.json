@@ -3,7 +3,7 @@
         "firstname": "Thomas",
         "lastname": "Blondel",
         "introduction": "Thomas est un réel passionné du multimédia mais également un très grand professionnel du web. L’infographie et le design d’interface n’ont plus de secret pour lui. Notre nordique est toujours à la recherche de nouveaux outils pour enrichir ses méthodes de travail. Une tartine de maroilles-first au petit déjeuné et sa créativité vous emportera dans une nouvelle dimension !",
-        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg",
+        "img": "images/thomas.jpg",
         "socials": [
             {
                 "name": "Twitter",
@@ -26,21 +26,21 @@
         "firstname": "Donovan",
         "lastname": "Levain",
         "introduction": "Donovan est le genre de personne qui ne se repose pas sur ses lauriers. Le web design, l'intégration et plus récemment la gestion de projet, ce Franc-Comtois est un véritable bosseur. Un soupçon de cancoillotte pixellisé à l'heure de l'apéro et plus rien ne l'arrête.",
-        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg",
+        "img": "images/donovan.jpg",
         "socials": [
             {
                 "name": "Twitter",
-                "link": "http://twitter.com/magicbucketteam"
+                "link": "http://twitter.com/donovanlevain"
             },
 
             {
-                "name": "Facebook",
-                "link": "http://twitter.com/magicbucketteam"
+                "name": "Linkedin",
+                "link": "https://www.linkedin.com/pub/donovan-levain/44/32b/160"
             },
 
             {
-                "name": "Github",
-                "link": "http://twitter.com/magicbucketteam"
+                "name": "Website",
+                "link": "http://donovanlevain.fr"
             }
         ]
     },
@@ -49,7 +49,7 @@
         "firstname": "Fabrice",
         "lastname": "Payet",
         "introduction": "Fabrice est un professionnel et passionné du monde interactif très complet. Excellent manager d’équipe, il fait figure de pilier au milieu de notre mêlée. Gardien de nos serveurs, maîtres de nos backend, son arsenal se compose entre autres de NodeJS, PHP, et pratique la self-defense des systèmes informatiques.",
-        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg",
+        "img": "images/thomas.jpg",
         "socials": [
             {
                 "name": "Twitter",
@@ -57,13 +57,13 @@
             },
 
             {
-                "name": "Website",
-                "link": "http://payet-fabrice.fr"
+                "name": "Linkedin",
+                "link": "http://www.linkedin.com/pub/fabrice-payet/27/553/560/"
             },
 
             {
-                "name": "Linkedin",
-                "link": "http://www.linkedin.com/pub/fabrice-payet/27/553/560/"
+                "name": "Website",
+                "link": "http://payet-fabrice.fr"
             }
         ]
     },
@@ -72,7 +72,7 @@
         "firstname": "Gabin",
         "lastname": "Aureche",
         "introduction": "Spécialisé dans l’expérience utilisateur, Gabin place les besoins de l’individu au centre de ses préoccupations. Il est force de proposition et possède la capacité de transformer les contraintes en opportunités. Un grand bol de Javascript au petit déjeuner et le voila prêt pour la journée !",
-        "img": "https://s3.amazonaws.com/uifaces/faces/twitter/brad_frost/128.jpg",
+        "img": "images/gabin.jpg",
         "socials": [
             {
                 "name": "GitHub",
