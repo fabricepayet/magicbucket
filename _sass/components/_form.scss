@@ -18,3 +18,9 @@
   color: $text-color;
   background-color: $input-bg-hover;
 }
+
+
+textarea {
+  max-width: 100%;
+  max-height: 300px;
+}

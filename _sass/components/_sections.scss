@@ -6,8 +6,13 @@
 .quote {
   @extend .bg-cover;
   background-color: #333;
+  display: table;
+  width: 100%;
+  height: 250px;
 
   h4, .h4 {
+    display: table-cell;
+    vertical-align: middle;
     color: #fff;
     opacity: .8;
   }
@@ -30,6 +35,7 @@
 
   li {
     padding: 0 20px;
+    margin-bottom: 20px;
   }
 
   img {
@@ -73,7 +79,7 @@
   }
 
   h3, .h3, p {
-    margin-bottom: .4em;
+    margin-bottom: 20px;
   }
 }
 

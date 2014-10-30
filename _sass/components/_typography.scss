@@ -6,7 +6,7 @@ h5, .h5 {
 }
 
 h2, .h2 {
-  margin: 0 0 40px 0;
+  margin: 0 0 ($spacing-close*2) 0;
   display: inline-block;
   padding: 0 0 6px 0;
   color: $brand-secondary;
@@ -14,7 +14,7 @@ h2, .h2 {
 }
 
 h3, .h3 {
-  margin: 0 0 20px 0;
+  margin: 0 0 $spacing-close 0;
   color: $brand-primary;
 }
 
@@ -27,14 +27,14 @@ h5, .h5 {
 }
 
 p {
-  margin-bottom: $spacing-inner;
-}
-
-.p-close {
   margin-bottom: $spacing-close;
 }
 
-.p-center {
+.p-far {
+  margin-bottom: $spacing-inner;
+}
+
+.center {
   @extend .text-center;
 
   max-width: 600px;
