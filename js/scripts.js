@@ -23,7 +23,7 @@
         $( '.mates article' ).removeClass( 'active' );
         $( '.mates article:eq(' + nextIndex + ')' ).addClass( 'active' );
 
-        timeout = setTimeout( slideMate, 3000 )
+        timeout = setTimeout( slideMate, 6000 )
     }
 
     slideMate();
