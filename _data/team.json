@@ -2,7 +2,7 @@
     {
         "firstname": "Thomas",
         "lastname": "Blondel",
-        "introduction": "Thomas est un réel passionné du multimédia mais également un très grand professionnel du web. L’infographie et le design d’interface n’ont plus de secret pour lui. Notre nordique est toujours à la recherche de nouveaux outils pour enrichir ses méthodes de travail. Une tartine de maroilles-first au petit déjeuné et sa créativité vous emportera dans une nouvelle dimension !",
+        "introduction": "Thomas est un réel passionné du multimédia mais également un très grand professionnel du web. L’infographie et le design d’interface n’ont plus de secret pour lui. Notre nordique est toujours à la recherche de nouveaux outils pour enrichir ses méthodes de travail. Une tartine de maroilles-first au petit déjeuner et sa créativité vous emportera dans une nouvelle dimension !",
         "img": "images/thomas.jpg",
         "socials": [
             {
@@ -25,7 +25,7 @@
     {
         "firstname": "Donovan",
         "lastname": "Levain",
-        "introduction": "Donovan est le genre de personne qui ne se repose pas sur ses lauriers. Le web design, l'intégration et plus récemment la gestion de projet, ce Franc-Comtois est un véritable bosseur. Un soupçon de cancoillotte pixellisé à l'heure de l'apéro et plus rien ne l'arrête.",
+        "introduction": "Donovan est le genre de personne qui ne se repose pas sur ses lauriers. Le web design, l'intégration et plus récemment la gestion de projet, ce Franc-Comtois est un véritable bosseur. Un soupçon de cancoillotte pixellisée à l'heure de l'apéro et plus rien ne l'arrête.",
         "img": "images/donovan.jpg",
         "socials": [
             {
@@ -49,7 +49,7 @@
         "firstname": "Fabrice",
         "lastname": "Payet",
         "introduction": "Fabrice est un professionnel et passionné du monde interactif très complet. Excellent manager d’équipe, il fait figure de pilier au milieu de notre mêlée. Gardien de nos serveurs, maîtres de nos backend, son arsenal se compose entre autres de NodeJS, PHP, et pratique la self-defense des systèmes informatiques.",
-        "img": "images/thomas.jpg",
+        "img": "images/fabrice.jpg",
         "socials": [
             {
                 "name": "Twitter",
@@ -71,7 +71,7 @@
     {
         "firstname": "Gabin",
         "lastname": "Aureche",
-        "introduction": "Spécialisé dans l’expérience utilisateur, Gabin place les besoins de l’individu au centre de ses préoccupations. Il est force de proposition et possède la capacité de transformer les contraintes en opportunités. Un grand bol de Javascript au petit déjeuner et le voila prêt pour la journée !",
+        "introduction": "Spécialisé dans l’expérience utilisateur, Gabin place les besoins de l’individu au centre de ses préoccupations. Il est force de proposition et possède la capacité de transformer les contraintes en opportunités. Un grand bol de Javascript au petit déjeuner et le voilà prêt pour la journée !",
         "img": "images/gabin.jpg",
         "socials": [
             {

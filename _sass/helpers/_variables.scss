@@ -80,3 +80,23 @@ $input-color: $text-color;
 \*------------------------------------*/
 
 $btn-primary-border: transparent;
+
+
+
+
+
+/*------------------------------------*\
+    #GRID
+\*------------------------------------*/
+
+$grid-gutter-width: 30px;
+
+$container-tablet: (720px + $grid-gutter-width);
+$container-sm: $container-tablet;
+
+$container-desktop: (940px + $grid-gutter-width);
+$container-md: $container-desktop;
+
+//$container-large-desktop: (1140px + $grid-gutter-width);
+$container-large-desktop: $container-desktop;
+$container-lg: $container-large-desktop;

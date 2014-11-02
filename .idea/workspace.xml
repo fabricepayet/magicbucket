@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="878e5a71-b7f7-489e-8378-eed14a080bcf" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/components/_sections.scss" afterPath="$PROJECT_DIR$/_sass/components/_sections.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/scripts.js" afterPath="$PROJECT_DIR$/js/scripts.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_sass/helpers/_variables.scss" afterPath="$PROJECT_DIR$/_sass/helpers/_variables.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_includes/introduction.html" afterPath="$PROJECT_DIR$/_includes/introduction.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/styles.css" afterPath="$PROJECT_DIR$/css/styles.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_data/team.json" afterPath="$PROJECT_DIR$/_data/team.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="magicbucket.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -51,20 +53,20 @@
         <option value="$PROJECT_DIR$/CNAME" />
         <option value="$PROJECT_DIR$/images/logo-01.svg" />
         <option value="$PROJECT_DIR$/_layouts/default.html" />
-        <option value="$PROJECT_DIR$/_sass/helpers/_variables.scss" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/_data/team.json" />
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_includes/footer.html" />
         <option value="$PROJECT_DIR$/_sass/components/_form.scss" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_sass/components/_typography.scss" />
         <option value="$PROJECT_DIR$/_includes/team.html" />
-        <option value="$PROJECT_DIR$/_includes/introduction.html" />
         <option value="$PROJECT_DIR$/_includes/head.html" />
         <option value="$PROJECT_DIR$/_includes/contact.html" />
         <option value="$PROJECT_DIR$/_sass/components/_sections.scss" />
         <option value="$PROJECT_DIR$/js/scripts.js" />
+        <option value="$PROJECT_DIR$/_includes/introduction.html" />
+        <option value="$PROJECT_DIR$/_data/team.json" />
+        <option value="$PROJECT_DIR$/_sass/helpers/_variables.scss" />
       </list>
     </option>
   </component>
@@ -118,7 +120,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
+              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -128,35 +130,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
+              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -170,7 +144,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
+              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -188,39 +162,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_sass" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="components" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="_layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
+              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -234,7 +176,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="magicbucket" />
+              <option name="myItemId" value="www" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -292,11 +234,11 @@
     <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23119777" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.22980501" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27110156" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2746781" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24947146" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -304,11 +246,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -330,23 +272,17 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="86" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="900">
-          <folding />
-        </state>
+        <state line="41" column="86" selection-start="2145" selection-end="2145" vertical-scroll-proportion="0.0" vertical-offset="397" max-vertical-offset="900" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240">
-          <folding />
-        </state>
+        <state line="10" column="18" selection-start="404" selection-end="404" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="240" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="35" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945">
-          <folding />
-        </state>
+        <state line="38" column="35" selection-start="1108" selection-end="1108" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="945" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/components/_form.scss">
@@ -356,16 +292,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="26" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="825">
-          <folding />
-        </state>
+        <state line="36" column="26" selection-start="1693" selection-end="1693" vertical-scroll-proportion="0.0" vertical-offset="338" max-vertical-offset="825" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/components/_sections.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="3" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="2010">
-          <folding />
-        </state>
+        <state line="38" column="3" selection-start="554" selection-end="554" vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="2010" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/introduction.html">
@@ -493,11 +425,6 @@
         <state line="33" column="1" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.36631578" vertical-offset="321" max-vertical-offset="12840" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_data/team.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="70" column="5" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.80082136" vertical-offset="660" max-vertical-offset="1470" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="12" selection-start="92" selection-end="129" vertical-scroll-proportion="0.09" vertical-offset="0" max-vertical-offset="500" />
@@ -508,19 +435,9 @@
         <state line="14" column="9" selection-start="361" selection-end="361" vertical-scroll-proportion="0.42" vertical-offset="0" max-vertical-offset="500" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_sass/helpers/_variables.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="56" column="1" selection-start="1183" selection-end="1183" vertical-scroll-proportion="0.3501048" vertical-offset="673" max-vertical-offset="1305" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_sass/components/_form.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state line="21" column="0" selection-start="263" selection-end="263" vertical-scroll-proportion="0.47297296" vertical-offset="0" max-vertical-offset="666" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/introduction.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="10" selection-start="850" selection-end="850" vertical-scroll-proportion="0.36753446" vertical-offset="0" max-vertical-offset="653" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/components/_typography.scss">
@@ -540,35 +457,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/head.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="22" selection-start="1975" selection-end="1975" vertical-scroll-proportion="0.744" vertical-offset="213" max-vertical-offset="900">
-          <folding />
-        </state>
+        <state line="39" column="22" selection-start="1975" selection-end="1975" vertical-scroll-proportion="0.744" vertical-offset="213" max-vertical-offset="900" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="18" selection-start="404" selection-end="404" vertical-scroll-proportion="0.28625953" vertical-offset="0" max-vertical-offset="524">
-          <folding />
-        </state>
+        <state line="10" column="18" selection-start="404" selection-end="404" vertical-scroll-proportion="0.28625953" vertical-offset="0" max-vertical-offset="524" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_includes/contact.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="45" column="62" selection-start="2024" selection-end="2024" vertical-scroll-proportion="0.6919918" vertical-offset="338" max-vertical-offset="825">
-          <folding />
-        </state>
+        <state line="45" column="62" selection-start="2024" selection-end="2024" vertical-scroll-proportion="0.6919918" vertical-offset="338" max-vertical-offset="825" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_sass/components/_sections.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="77" column="3" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.532294" vertical-offset="916" max-vertical-offset="1995">
-          <folding />
-        </state>
+        <state line="77" column="3" selection-start="1053" selection-end="1053" vertical-scroll-proportion="0.532294" vertical-offset="916" max-vertical-offset="1995" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="42" selection-start="807" selection-end="807" vertical-scroll-proportion="0.5133588" vertical-offset="106" max-vertical-offset="945">
+        <state line="25" column="42" selection-start="807" selection-end="807" vertical-scroll-proportion="0.5133588" vertical-offset="106" max-vertical-offset="945" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/introduction.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="10" selection-start="850" selection-end="850" vertical-scroll-proportion="0.49281314" vertical-offset="0" max-vertical-offset="487">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_data/team.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="0" selection-start="3276" selection-end="3276" vertical-scroll-proportion="0.64681727" vertical-offset="960" max-vertical-offset="1470">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_sass/helpers/_variables.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="92" column="0" selection-start="1754" selection-end="1754" vertical-scroll-proportion="0.59033614" vertical-offset="1099" max-vertical-offset="1605">
           <folding />
         </state>
       </provider>
