@@ -67,11 +67,13 @@
 
 .mate {
   position: absolute;
+  z-index: -1;
   top: -10px;
   opacity: 0;
 
   &.active {
     position: relative;
+    z-index: 1;
     top: 0;
     opacity: 1;
     transition: all 1s;
